@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>João Bernardo Rebelo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css"> 
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500&family=Roboto&display=swap" rel="stylesheet"> 
+</head>
+<body>
+<nav class="navbar navbar-fixed-top navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand mx-3" href="#">João Bernardo Rebelo</a>
+        <a id="sc_big" href="https://soundcloud.com/user-306170432"><i class="fab fa-soundcloud"></i></a>
+    </div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mx-5 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#music">Music</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contact">Contact</a>
+        </li>
+        <li class="nav-item">
+            <a id="sc_small" href="https://soundcloud.com/user-306170432"><i class="fab fa-soundcloud"></i></a>
+        </li>    
+      </ul>
+    </div>    
+</nav>
+<div class="container-fluid parallax" style="min-height: 800px">
+    <div class="hero my-auto">
+        <h2>João Bernardo</h2>
+        <h2>Rebelo</h2>
+        <h3>Musician - Composer - Sound Designer</h3>
+    </div>    
+</div>
+
+<div class="container-md my-5 mx-auto w-75 about">
+    <div class="row justify-content-center">
+        <div id="about" class="col-lg-8 my-5">
+        <h2 style="position:relative; top:10%">About</h2>    
+        <p style="position:relative; top:20%">Hello, I'm João Bernardo Rebelo, a Musician and Sound Designer from Portugal.
+        My passion for music started at a young age, playing games and listening to my favorite metal bands. This passion grew as I started playing instruments in my teen years and creating my own songs by myself and with friends.</p>
+        </div>
+        <div class="col-lg-4">
+        <img class="portrait" src="/media/br_portrait.jpg">;
+        </div>
+    </div>        
+</div>
+<br>
+<div id="music" class="container-md my-5 mx-auto w-75 about">
+    <h2>Music</h2>
+    <hr>
+    <h3>Game music</h3>
+    <p>I have been working on games since 2018 and I graduated from University in 2021 with Videogame Bachelor's degree. I have been to multiple game jams and done some professional work as well, here are some samples of what I did in the past.</p>
+    
+    <div class="row">
+        <div class="col-lg-6">
+        <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1004794420&color=%232d2d24&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-306170432" title="Bernardo Rebelo" target="_blank" style="color: #cccccc; text-decoration: none;">Bernardo Rebelo</a> · <a href="https://soundcloud.com/user-306170432/nightmare-inc-the-underside" title="Nightmare Inc (The Underside)" target="_blank" style="color: #cccccc; text-decoration: none;">Nightmare Inc (The Underside)</a></div>
+        <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1091569618&color=%232d2d24&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-306170432" title="Bernardo Rebelo" target="_blank" style="color: #cccccc; text-decoration: none;">Bernardo Rebelo</a> · <a href="https://soundcloud.com/user-306170432/willie-return-to-the-dream-land-the-underside" title="Willie, Return To The Dream Land (The Underside)" target="_blank" style="color: #cccccc; text-decoration: none;">Willie, Return To The Dream Land (The Underside)</a></div>
+        </div>
+        <div class="col-lg-6">
+        <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1019861890&color=%23252525&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-306170432" title="Bernardo Rebelo" target="_blank" style="color: #cccccc; text-decoration: none;">Bernardo Rebelo</a> · <a href="https://soundcloud.com/user-306170432/6th-dimension" title="6th Dimension" target="_blank" style="color: #cccccc; text-decoration: none;">6th Dimension</a></div>
+        <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/929634973&color=%23444444&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-306170432" title="Bernardo Rebelo" target="_blank" style="color: #cccccc; text-decoration: none;">Bernardo Rebelo</a> · <a href="https://soundcloud.com/user-306170432/the-run" title="The Run" target="_blank" style="color: #cccccc; text-decoration: none;">The Run</a></div>
+        </div>
+        <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/857747353&color=%232b2317&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-306170432" title="Bernardo Rebelo" target="_blank" style="color: #cccccc; text-decoration: none;">Bernardo Rebelo</a> · <a href="https://soundcloud.com/user-306170432/near-side-of-yonder-space-depths" title="Near Side Of Yonder - Space Depths" target="_blank" style="color: #cccccc; text-decoration: none;">Near Side Of Yonder - Space Depths</a></div>
+        
+    </div>  
+    <h3 class="text-center">Test some of the games I did with my University friends <a href="https://thetip-studios.itch.io/">here</a>!</h3>  
+    <h3>Professional work</h3>
+    <hr>
+    <div class="row">
+        <div class="col-lg-6">
+            <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1093276870&color=%23555555&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-306170432" title="Bernardo Rebelo" target="_blank" style="color: #cccccc; text-decoration: none;">Bernardo Rebelo</a> · <a href="https://soundcloud.com/user-306170432/mall" title="Mall" target="_blank" style="color: #cccccc; text-decoration: none;">Mall</a></div>
+            <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1093267411&color=%23555555&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-306170432" title="Bernardo Rebelo" target="_blank" style="color: #cccccc; text-decoration: none;">Bernardo Rebelo</a> · <a href="https://soundcloud.com/user-306170432/beekind" title="Beekind" target="_blank" style="color: #cccccc; text-decoration: none;">Beekind</a></div>    
+        </div>
+        <div class="col-lg-6">
+            <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1093267393&color=%23555555&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-306170432" title="Bernardo Rebelo" target="_blank" style="color: #cccccc; text-decoration: none;">Bernardo Rebelo</a> · <a href="https://soundcloud.com/user-306170432/cozy" title="Cozy" target="_blank" style="color: #cccccc; text-decoration: none;">Cozy</a></div>
+            <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1093267384&color=%23555555&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-306170432" title="Bernardo Rebelo" target="_blank" style="color: #cccccc; text-decoration: none;">Bernardo Rebelo</a> · <a href="https://soundcloud.com/user-306170432/curse-of-oak-island-game-theme" title="The Curse of Oak Island Game Theme" target="_blank" style="color: #cccccc; text-decoration: none;">The Curse of Oak Island Game Theme</a></div>
+        </div>
+    </div>
+    <h2>Independent Music</h3>
+    <hr>
+    <div class="parallax" style="height:350px"></div>
+    <h3>Crimson Bridge</h3>
+    <p>Crimson Bridge is my main Metal band as I am the drummer since 2016 and since 2018 backing vocals. We all contribute to song writing but Mixing and Mastering credits mostly go to our bassist Nuno Cruz.</p>    
+    <iframe class="my-3 w-100" style="height:500px" width="560" height="315" src="https://www.youtube.com/embed/ofYDmlhDoXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
+    <iframe class="my-3" src="https://open.spotify.com/embed/album/4JLbn0p7kJY2LlsEXAsPcl?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    <h3 class="text-center">View <a href="https://linktr.ee/crimsonbridgemetal">Crimson Bridge</a> on LinkTree</h3>
+    
+</div>
+<div id="contact" class="container-md my-5 mx-auto w-75 about">
+    <h2>Contact</h2>
+    <hr>
+    <h3 class="text-center">For business inquiries<br><a href="mailto:j.bernardo.rebelo@gmail.com">j.bernardo.rebelo@gmail.com</a></h3>
+    <h3 class="text-center">Find my music on<br><a href="https://soundcloud.com/user-306170432">SoundCloud</a></h3>
+</div> 
+<br>        
+<footer>
+    <div class="container-fluid">
+        <p>&copy João Bernardo Rebelo | Website by <a href="https://www.sayitshwok.com">Jonathan Cwiok</a>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</footer>
+</body>
+</html>
